@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 A little about me: 
+
 Passion for AI and philosophy
+
 Γνῶθι σεαυτόν 😉 Lex iniusta non est lex 😏 Never say never 🤗
 
