@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-A little about me: Γνῶθι σεαυτόν 😉 Lex iniusta non est lex 😏 Never say never 🤗
+### A little about me: Γνῶθι σεαυτόν 😉 Lex iniusta non est lex 😏 Never say never 🤗
 
