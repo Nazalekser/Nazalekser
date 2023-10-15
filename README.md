@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 
 <!--
 **Nazalekser/Nazalekser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### A little about me: Γνῶθι σεαυτόν 😉 Lex iniusta non est lex 😏 Never say never 🤗
+A little about me: 
+- Γνῶθι σεαυτόν 😉
+- Lex iniusta non est lex 😏
+- Never say never 🤗
 
