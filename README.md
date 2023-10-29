@@ -1,13 +1,12 @@
 # Hi there 👋 
 
 - 🔭 I’m currently working on data science projects.
-- 🌱 I’m learning the Time Series and LLM
+- 🌱 I’m currently learning the Time Series and LLM
+- 🤔 I’m looking for help in putting my AI knowledge into practice!
 - ⚡ I think AI is very philosophical
 
 ### Background
-- Electrical engineering degree
-- Two-year master's program in philosophy
-- Various online courses and specializations in Data Science, Data Analisys, Data Engineering
+I'm graduated from a technical institute and got a degree in electrical engineering, studied philosophy in a two-year master's program. I have taken various online courses and specializations in Data Science, Data Analisys, Data Engineering.
 
 
 ### A little about my philosophy 
