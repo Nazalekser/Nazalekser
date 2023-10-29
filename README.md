@@ -17,6 +17,7 @@
 
 ### Contact me
 - 📫 To reach me, please contact me on LinkedIn!
+[LinkedIn](https://www.linkedin.com/in/alex-alex-312919268/)
   
 <!--
 **Nazalekser/Nazalekser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
