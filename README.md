@@ -15,12 +15,6 @@ I'm graduated from a technical institute and got a degree in electrical engineer
 - 😏 Lex iniusta non est lex
 - 🤗 Never say never
 
-### Contact me
-- 📫 To reach me, please contact me on LinkedIn!
-
-[LinkedIn](https://www.linkedin.com/in/alex-alex-312919268/)
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alex-alex-312919268/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alex-alex-312919268/" height="30" width="40" /></a>
