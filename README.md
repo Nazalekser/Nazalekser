@@ -5,7 +5,7 @@
 - ⚡ I think AI is very philosophical
 
 ### Background
-- Degree - Electrical Engineer
+- Electrical engineering degree
 - Two-year master's program in philosophy
 - Various online courses and specializations in Data Science, Data Analisys, Data Engineering
 
