@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Data Science projects.
 - 🌱 I’m currently learning Time Series and LLM
 - 🤔 I’m looking for help in putting my AI knowledge into practice
-- 👨‍💻 All of my projects are available at [https://github.com/Nazalekser/portfolio](https://github.com/Nazalekser/portfolio)
+- 👨‍💻 All of my projects are available at [Portfolio](https://github.com/Nazalekser/portfolio)
 - ⚡ Fun fact: I enjoy philosophy when I'm not coding
 
 ### Background
