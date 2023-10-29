@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on data science projects.
 - 🌱 I’m currently learning Time Series and LLM
-- 🤔 I’m looking for help in putting my AI knowledge into practice!
+- 🤔 I’m looking for help in putting my AI knowledge into practice
 - ⚡ I think AI is very philosophical
 
 ### Background
