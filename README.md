@@ -4,16 +4,10 @@
 - 🌱 I’m currently learning Time Series and LLM
 - 🤔 I’m looking for help in putting my AI knowledge into practice
 - 👨‍💻 All of my projects are available at [Portfolio](https://github.com/Nazalekser/portfolio)
-- ⚡ Fun fact: I enjoy philosophy when I'm not coding
+- ⚡ Fun facts: 😉 Γνῶθι σεαυτόν - 😏 Lex iniusta non est lex - 🤗 Never say never
 
 ### Background
 I'm graduated from a technical university and got a degree in electrical engineering. I have taken various online courses and specializations in Data Science, Data Analisys, Data Engineering.
-
-
-### A little about my philosophy 
-- 😉 Γνῶθι σεαυτόν 
-- 😏 Lex iniusta non est lex
-- 🤗 Never say never
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
