@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I enjoy philosophy when I'm not coding
 
 ### Background
-I'm graduated from a technical institute and got a degree in electrical engineering. I have taken various online courses and specializations in Data Science, Data Analisys, Data Engineering.
+I'm graduated from a technical university and got a degree in electrical engineering. I have taken various online courses and specializations in Data Science, Data Analisys, Data Engineering.
 
 
 ### A little about my philosophy 
