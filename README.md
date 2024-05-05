@@ -1,7 +1,7 @@
 # Hi there 👋 
 
 - 🔭 I’m currently working on Data Science projects.
-- 🌱 I’m currently learning Time Series and LLM
+- 🌱 I’m currently learning MLOps and LLM
 - 🤔 I’m looking for help in putting my Data Science knowledge into practice
 - 👨‍💻 Some of my projects are available at [Portfolio](https://github.com/Nazalekser/portfolio/blob/main/README.md)
 - ⚡ Fun ideas: 😉 Γνῶθι σεαυτόν - 😏 Lex iniusta non est lex - 🤗 Never say never
